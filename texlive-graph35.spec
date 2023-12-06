@@ -1,6 +1,6 @@
 Name:		texlive-graph35
-Version:	47522
-Release:	2
+Version:	66772
+Release:	1
 Summary:	Draw keys and screen items of several Casio calculators
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graph35
