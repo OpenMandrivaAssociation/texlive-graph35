@@ -3,7 +3,7 @@ Version:	66772
 Release:	1
 Summary:	Draw keys and screen items of several Casio calculators
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graph35
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/graph35
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graph35.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graph35.doc.r%{version}.tar.xz
